@@ -13,10 +13,8 @@
 			<form action="login" method="post">
 				<label for="uname">Username: </label>
 				<input type="text" name="uname" id="uname" required><br><br>
-				
 				<label for="passwd">Password: </label>
 				<input type="password" name="passwd" id="passwd" required><br><br>
-				
 				<input type="submit">&nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="register.jsp"><input type="button" value="Register"></a>
 			</form>
